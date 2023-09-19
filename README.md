@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Minjung Lee from Hanyang Univ.
+I'm Minjung Lee.
+
+
 
 <!--
 **minjung0067/minjung0067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
